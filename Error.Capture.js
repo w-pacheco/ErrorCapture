@@ -12,7 +12,7 @@
     var windowConsole = null;
 
     /** This needs to point to a blank aspx/html page in order to render the errors; */
-    var url = origin + '/personal/pachecowi/Workshop/SiteAssets/App/src/pages/Error.Console.aspx';
+    var url = origin + '/personal/pachecowi/Workshop/SiteAssets/App/src/pages/Error.Capture.aspx';
     
     document.ERRORS = new Array();
 
